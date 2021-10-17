@@ -1,0 +1,10 @@
+C:\Users\lucas\source\repos\Facul\Facul\bin\Debug\Facul.exe.config
+C:\Users\lucas\source\repos\Facul\Facul\bin\Debug\Facul.exe
+C:\Users\lucas\source\repos\Facul\Facul\bin\Debug\Facul.pdb
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.csproj.AssemblyReference.cache
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.Form1.resources
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.Properties.Resources.resources
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.csproj.GenerateResource.cache
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.csproj.CoreCompileInputs.cache
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.exe
+C:\Users\lucas\source\repos\Facul\Facul\obj\Debug\Facul.pdb
